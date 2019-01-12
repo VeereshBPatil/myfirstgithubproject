@@ -14,3 +14,5 @@ jan
 
 
 added 2 features to this project
+
+done second version
